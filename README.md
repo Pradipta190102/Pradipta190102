@@ -28,15 +28,6 @@ Thanks for visiting my profile. Here's what you should know about me:
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradipta190102&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipta190102&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
 ### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/pg37/)
