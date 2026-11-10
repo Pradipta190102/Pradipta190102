@@ -6,8 +6,8 @@ Thanks for visiting my profile. Here's what you should know about me:
 - 💻 My stack revolves around Java, Spring, React.js, Node.js, MongoDB, MySQL and PostgreSQL
 - 💡 Always up for Data Structures, Algorithms, LLD and core CS concepts
 - 🏆 4-star on HackerRank, 300+ problems solved
-- 🌐 Portfolio: https://your-portfolio-link
-
+- 🌐 Portfolio: https://pradipta190102.github.io/Portfolio_Website/
+  
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
