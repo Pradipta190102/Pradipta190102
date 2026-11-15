@@ -5,7 +5,7 @@ Thanks for visiting my profile. Here's what you should know about me:
 - 🔧 Software Engineer at TCS, building insurance platform UIs with React.js and integrating REST APIs
 - 💻 Full-stack developer working with React.js, Redux Toolkit, Node.js, Express.js, MongoDB, MySQL and PostgreSQL
 - 💡 Always up for Data Structures, Algorithms, LLD and core CS concepts
-- 🏆 4-star on HackerRank, 300+ problems solved
+- 🏆 5-star in Problem Solving on HackerRank, 300+ problems solved
 - 🌐 Portfolio: https://pradipta190102.github.io/Portfolio_Website/
 
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,6 +23,8 @@ Thanks for visiting my profile. Here's what you should know about me:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+[![HackerRank Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FFC107?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/pradipta_ghosh71)
 
 ---
 
