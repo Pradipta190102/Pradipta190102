@@ -2,7 +2,7 @@
 
 Thanks for visiting my profile. Here's what you should know about me:
 
-- 🔧 Software Engineer at TCS, building insurance platform UIs with React.js and integrating REST APIs
+- 🔧 Software Engineer at TCS
 - 💻 Full-stack developer working with React.js, Redux Toolkit, Node.js, Express.js, MongoDB, MySQL and PostgreSQL
 - 💡 Always up for Data Structures, Algorithms, LLD and core CS concepts
 - 🏆 5-star in Problem Solving on HackerRank, 300+ problems solved
